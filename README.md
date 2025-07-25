@@ -4,6 +4,11 @@
 
 Meet the lightning-fast Facebook Messenger chatbot, seamlessly managing multiple accounts with access to 271 commands and more.
 
+> **⚠️ DEPRECATED:** This project is no longer actively maintained. Please use with caution and consider alternatives for production use.
+
+> **Looking for a maintained alternative?**  
+> The successor to Orion is now available for WhatsApp and Telegram. Check the [official repository](https://github.com/mrepol742/project-canis) for more details.
+
 ## Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version 20.x.x
 
